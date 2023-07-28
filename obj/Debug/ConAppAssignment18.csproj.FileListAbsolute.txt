@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAY-15\ConAppAssignment18\ConAppAssignment18\bin\Debug\ConAppAssignment18.exe.config
+F:\Training Stuff\Dot netTraining\DAY-15\ConAppAssignment18\ConAppAssignment18\bin\Debug\ConAppAssignment18.exe
+F:\Training Stuff\Dot netTraining\DAY-15\ConAppAssignment18\ConAppAssignment18\bin\Debug\ConAppAssignment18.pdb
+F:\Training Stuff\Dot netTraining\DAY-15\ConAppAssignment18\ConAppAssignment18\obj\Debug\ConAppAssignment18.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-15\ConAppAssignment18\ConAppAssignment18\obj\Debug\ConAppAssignment18.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-15\ConAppAssignment18\ConAppAssignment18\obj\Debug\ConAppAssignment18.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-15\ConAppAssignment18\ConAppAssignment18\obj\Debug\ConAppAssignment18.exe
+F:\Training Stuff\Dot netTraining\DAY-15\ConAppAssignment18\ConAppAssignment18\obj\Debug\ConAppAssignment18.pdb
